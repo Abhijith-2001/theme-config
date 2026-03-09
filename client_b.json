@@ -1,0 +1,39 @@
+{
+  "backgroundImage": "login_background_image2",
+  "topImage": "login_logo_image2",
+  "headerImage": "login_logo2",
+  "logoImage": "login_logo2",
+
+  "buttonStartColor": "#FF0000",
+  "buttonEndColor": "#800000",
+
+  "headerGradient1": "#FF5F6D",
+  "headerGradient2": "#E94057",
+  "headerGradient3": "#C81D25",
+  "headerGradient4": "#8A0F19",
+
+  "connectionContainer": "#f24141",
+  "blueWhite70": "#FFF0F0",
+  "black80": "#80000000",
+  "aliceBlue": "#FFE5E5",
+
+  "lightBlack": "#0A0A0A",
+  "cynicalBlack": "#121212",
+  "backGroundColor": "#FFF4F4",
+  "cardBackGroundColor": "#333333",
+  "greyTint": "#BBBBBB",
+  "missedAlertText": "#FF0000",
+  "successGreen": "#00C853",
+  "dangerRed": "#FF1744",
+
+  "dialogSurface": "#FFFFFF",
+  "cancelButtonBg": "#EDE7FF",
+  "primaryButtonStart": "#E94057",
+  "primaryButtonEnd": "#8A0F19",
+  "selectedCardStart": "#E94057",
+  "selectedCardEnd": "#8A0F19",
+
+  "bottomMenuSelected": "#E94057",
+  "bottomMenuUnselected": "#8A8A8A",
+  "bottomMenuBackground": "#0F0808"
+}
